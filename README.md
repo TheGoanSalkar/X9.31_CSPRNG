@@ -14,3 +14,6 @@ The encrypted image using AES in CTR mode. Unlike ECB mode DES, the shape of the
 
 # AES.py
 The Python code that implements AES in CTR mode, showcasing its security. It also has a function x931 that generates random numbers using the ANSI X9.31 CSPRNG algorithm as documented in https://csrc.nist.rip/cryptval/rng/931rngext.pdf.
+
+# random_numbers.txt
+Some pseudo-random numbers generated using the ANSI X9.31 CSPRNG algorithm.
